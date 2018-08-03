@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 02 16:03:13 PDT 2018
+com.ibm.wala.cast-1.5.0-SNAPSHOT-sources.jar>=
+com.ibm.wala.cast-1.5.0-SNAPSHOT.jar>=
+com.ibm.wala.cast-1.5.0-SNAPSHOT-p2metadata.xml>=
+com.ibm.wala.cast-1.5.0-SNAPSHOT.pom>=
+com.ibm.wala.cast-1.5.0-SNAPSHOT-p2artifacts.xml>=

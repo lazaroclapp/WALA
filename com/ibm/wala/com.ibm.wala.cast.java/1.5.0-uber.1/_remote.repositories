@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 02 17:20:10 PDT 2018
+com.ibm.wala.cast.java-1.5.0-uber.1-sources.jar>=
+com.ibm.wala.cast.java-1.5.0-uber.1.pom>=
+com.ibm.wala.cast.java-1.5.0-uber.1-javadoc.jar>=
+com.ibm.wala.cast.java-1.5.0-uber.1.jar>=
